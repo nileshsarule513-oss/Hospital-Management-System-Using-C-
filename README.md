@@ -113,8 +113,11 @@ Through this project, I gained practical knowledge of:
 - Modular Programming
 
 ---
+##  References
 
+ChatGPT (OpenAI): https://chatgpt.com/
 
+---
 
 ## 📄 License
 
